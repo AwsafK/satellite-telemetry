@@ -1,9 +1,7 @@
 /*
 
-• Name of the Module: Assignment 3 Sattelite 
-• Date Due: 02/21/2024
-• Author: Awsaf Ahmad Kabir
-• Program Purpose: 
+â€¢ Name of the Module: Assignment 3 Satellite 
+â€¢ Program Purpose: 
 A low memory print program for a satellite: Comet-666. It communicates it sends telemetry information across a communication link to
 ground station, Shangri-La.
 
